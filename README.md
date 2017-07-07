@@ -9,4 +9,4 @@ The purpose of this program is to provide data for the game theoretic setup of t
 **It should be noted, this program is not a playable game! The term game here is meant in the strict mathematical sense. This program is
 a model of one version of this game, under the above assumptions/rules.**
 
-To play this program download both files, name, and move, them to an appropriate folder and open with your preffered IDE.
+To play this program download both files(CatMouseGame.java and PlayGame.java) and move them to an appropriate folder and open with your prefered IDE.
